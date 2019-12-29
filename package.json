@@ -1,0 +1,14 @@
+{
+  "name": "sudokusolver",
+  "version": "1.0.0",
+  "description": "gonna try to ruin sudoku for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sudoku"
+  ],
+  "author": "Lee-Roy King",
+  "license": "MIT"
+}
